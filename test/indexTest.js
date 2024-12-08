@@ -50,7 +50,7 @@ describe("index.js", () => {
     expect(violet).to.equal("violet")
   })
   it("Array: uses destructuring to declare six rainbow color variables using initials", () => {
-    expect(r).to.exist
+    expect(a).to.exist
     expect(r).to.equal("red")
     expect(o).to.exist
     expect(o).to.equal("orange")
